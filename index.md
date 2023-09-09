@@ -14,7 +14,7 @@ Welcome to exampreparation
 ### 近代
 - [明治]()
 - [大正]()
-- [昭和戦前]()
+- [昭和戦前](showabeforeww2/showa.md)
 - [昭和戦後]()
 ### 現代
 - [平成]()
