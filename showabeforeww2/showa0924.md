@@ -1,7 +1,7 @@
 # 昭和前半
 
 [大正時代]()<br>
-[一覧にもどる](exam_preparation/index.md)<br>
+[一覧にもどる](https://fujistudy.github.io/exam_preparation/)<br>
 [昭和後半]()<br>
 
 ## 大正時代の宿題
@@ -296,6 +296,5 @@
 <br>
 
 [大正時代]()<br>
-[一覧にもどる](exam_preparation/index.md)<br>
+[一覧にもどる](https://fujistudy.github.io/exam_preparation/)<br>
 [昭和後半]()<br>
-
