@@ -29,12 +29,14 @@
 
 ## 第一次若槻礼次郎内閣 1926-1927 立憲民政党
 <span style="font-size: 150%">1926年</span><br>
-**<第一次若槻礼次郎内閣組閣>**<br>
 
+**＜第一次若槻礼次郎内閣組閣＞**<br>
 <div align="center"><img src="images/wakatuki.jpg" width="300px"></div>
-＜取り付け騒ぎ＞<br>帝国議会で大蔵相の片岡直温が「東京渡辺銀行がとうとう破綻致しました。」と失言してしまう。そこから、取り付け騒ぎが起きる。<br>取り付け騒ぎとは、銀行が破綻し、預金が引き出せなくなることを恐れた人が、銀行に殺到することである。<br>※写真は銀行に殺到する人々
+
+**＜取り付け騒ぎ＞**<br>帝国議会で大蔵相の片岡直温が「東京渡辺銀行がとうとう破綻致しました。」と失言してしまう。そこから、取り付け騒ぎが起きる。<br>取り付け騒ぎとは、銀行が破綻し、預金が引き出せなくなることを恐れた人が、銀行に殺到することである。<br>※写真は銀行に殺到する人々
 <div align="center"><img src="images/torituke.JPG" width="300px"></div><br>
-＜総辞職＞
+
+**＜総辞職＞**
 <br>その影響を受け、鈴木商店が倒産し、鈴木商店に融資していた台湾銀行が休業してしまう。若槻内閣は緊急勅令で台湾銀行を救済しようとするも、枢密院の反対で断念。総辞職することに。
 <br>
 <br>
@@ -180,12 +182,13 @@
 ## 東条英機内閣 1941-1944 陸軍
 <span style="font-size: 150%">1941年</span>
 
-**<東条英機内閣組閣>**<br>
+**＜東条英機内閣組閣＞**<br>
 陸相と内相を兼任した東条英機内閣が発足する。米の国務長官ハルによる最後通牒であるハル・ノートが提示される。御前会議にて、米・英・蘭に対する開戦が決定する。
 <div align="center"><img src="images/Hideki_Tojo_2.jpg" width="300px"><div>
 
 <div align="left"><div><br>
-**<太平洋戦争開戦>**<br>
+
+**＜太平洋戦争開戦＞**<br>
 山本五十六司令官による真珠湾攻撃が実施される。同時に、マレー半島にも上陸。太平洋戦争が始まる。
 <div align="center"><img src="images/1024px-USS_California_sinking-Pearl_Harbor.jpg" width="400px"><div>
 
@@ -193,8 +196,8 @@
 
 <span style="font-size: 150%">1942年</span><br>
 
-**<ミッドウェー海戦>**<br>
-ミッドウェー海戦で壊滅的敗北。連合艦隊主力空母4隻を失う。
+**＜ミッドウェー海戦＞**<br>
+ミッドウェー海戦で壊滅的敗北。赤城・加賀・飛龍・蒼龍などの連合艦隊主力空母4隻を失う。
 <div align="center"><img src="images/Japanese_aircraft_carrier_Hiryu_maneuvers_to_avoid_bombs_on_4_June_1942_(USAF-3725).jpg" width="400px"><div>
 
 <div align="center"><br>
@@ -208,20 +211,20 @@
 
 <span style="font-size: 150%">1943年</span><br>
 
-**<大東亜会議>**<br>
+**＜大東亜会議＞**<br>
 大東亜会議が開かれ、日本史は以下の列国代表が東京に集結。大東亜共同宣言を採択。
 <div align="center"><img src="images/Greater_East_Asia_Conference.JPG" width="400px"><div>
 
 <div align="left"><div><br>
 
-**<カイロ会談>**<br>
+**＜カイロ会談＞**<br>
 米・英・中がカイロ会談を開く。第一次大戦以降の日本が獲得した領土(太平洋地域・満州・台湾)の返還、朝鮮の独立を宣言。
 <div align="center"><img src="images/Cairo_conference.jpg" width="400px"><div>
 
 <div align="left"><div><br>
 <span style="font-size: 150%">1943年</span><br>
 
-**<サイパン島陥落>**<br>
+**＜サイパン島陥落＞**<br>
 マリアナ沖海戦で日本敗北。絶対国防圏のサイパン島陥落。以後、米軍はサイパン島を日本を爆撃する拠点とする。
 <div align="center"><img src="images/Zuikaku_and_two_destroyers_under_attack_on_20_June_1944_(80-G-238025).jpg" width="400px"><div>
 
@@ -230,19 +233,19 @@
 ## 小磯国昭内閣 1944-1945 陸軍
 <span style="font-size: 150%">1944年</span><br>
 
-**<小磯国昭内閣組閣>**<br>
+**＜小磯国昭内閣組閣＞**<br>
 本土への空襲が激化し、学童疎開が開始される。レイテ島沖海戦で日本敗北。神風特攻隊・人間魚雷回天が出撃する。
 <div align="center"><img src="images/Kuniaki_Koiso_2.jpg" width="300px"><div>
 <div align="left"><div><br>
 <span style="font-size: 150%">1945年</span><br>
 
-**<ヤルタ会談>**<br>
+**＜ヤルタ会談＞**<br>
 ウクライナのリヴァディア宮殿で英米ソでヤルタ会談が開かれる。ソ連の対日参戦と千島・樺太の領有が了承させる。
 <div align="center"><img src="images/Yalta_Conference_1945_Churchill,_Stalin,_Roosevelt.jpg" width="400px"><div>
 
 <div align="left"><div><br>
 
-**<本土決戦へ>**<br>
+**＜本土決戦へ＞**<br>
 硫黄島の玉砕、東京大空襲、沖縄戦と太平洋戦争が激化する。
 <div align="center"><img src="images/After_Bombing_of_Tokyo_on_March_1945_19450310.jpg" width="400px"><div>
 
@@ -251,13 +254,13 @@
 ## 鈴木貫太郎内閣 1945 海軍
 <span style="font-size: 150%">1945年</span><br>
 
-**<鈴木貫太郎内閣組閣>**<br>
+**＜鈴木貫太郎内閣組閣＞**<br>
 5月に同盟国ドイツが降伏。7月には英米中がポツダム宣言を出すが、日本は無視する。そして、8月6日に広島に原子爆弾が投下される。8月8日には、ソ連が対日参戦。ソ連軍の捕虜がシベリアに抑留される。その後、8月9日に長崎に原子爆弾が投下される。
 <div align="center"><img src="images/Kantaro_Suzuki_suit.jpg" width="300px"><div>
 
 <div align="left"><div><br>
 
-**<ポツダム宣言受諾>**<br>
+**＜ポツダム宣言受諾＞**<br>
 御前会議にて、本土決戦が議論されるも天皇の御聖断でポツダム宣言受諾が決定される。8月14日に終戦の詔書が出され無条件降伏が決定される。
 <div align="center"><img src="images/Gozen-kaigi_14_August_1945.jpg" width="300px"><div>
 
@@ -266,11 +269,12 @@
 
 ## 東久邇宮稔彦王内閣 1945
 <span style="font-size: 150%">1945年</span><br>
-**<東久邇宮稔彦王内閣組閣>**<br>
+
+**＜東久邇宮稔彦王内閣組閣＞**<br>
 皇族の東久邇宮稔彦王が組閣。近衛文麿が副総理として入閣。
 <div align="center"><img src="images/HIH_Prince_Naruhiko_of_Higashikuni.jpg" width="300px"><div>
 
 <div align="left"><div><br>
 
-**<降伏文書調印>**<br>
+**＜降伏文書調印＞**<br>
 米軍艦ミズーリ号上で降伏文書に調印。全権は、重光葵外相と梅津美治郎参謀総長であった。プレス＝コードにより、出版物の事前検閲・GHQに対する批判は禁止された。<br>日本側は「国体護持（天皇制維持）と「一億総懺悔」を強調。最終的に、GHQの圧力で総辞職することに。<div align="center"><img src="images/Surrender_of_Japan_-_USS_Missouri.jpg" width="400px"><div>
