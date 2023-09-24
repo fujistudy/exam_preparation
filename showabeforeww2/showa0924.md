@@ -286,6 +286,7 @@
 御前会議にて、本土決戦が議論されるも天皇の御聖断でポツダム宣言受諾が決定される。8月14日に終戦の詔書が出され無条件降伏が決定される。
 <div align="center"><img src="images/Gozen-kaigi_14_August_1945.jpg" width="300px"></div>
 
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/LxEWiHiiCkk?si=OheEMcHjAuQk0ttJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 <div align="left"></div><br>
 
