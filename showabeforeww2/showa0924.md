@@ -202,14 +202,9 @@
 ミッドウェー海戦で壊滅的敗北。赤城・加賀・飛龍・蒼龍などの連合艦隊主力空母4隻を失う。
 <div align="center"><img src="images/Japanese_aircraft_carrier_Hiryu_maneuvers_to_avoid_bombs_on_4_June_1942_(USAF-3725).jpg" width="400px"></div>
 
-<div align="center"><br>
+<div align="center"><br></div>
 
-[![](https://img.youtube.com/vi/_HWNoT7gwKc/0.jpg)](https://www.youtube.com/watch?v=_HWNoT7gwKc)
-
-a
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_HWNoT7gwKc?si=v9Xp4vChwOlMDTG5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-↑　2020年公開の映画「ミッドウェイ」。真珠湾攻撃の奇襲からミッドウェー海戦での敗北までを丁寧に描く。<br>※画像をクリックで予告映像が見れます。</div>
 
 <div align="left"></div><br>
 
