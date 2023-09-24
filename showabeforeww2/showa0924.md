@@ -206,6 +206,8 @@
 
 [![](https://img.youtube.com/vi/_HWNoT7gwKc/0.jpg)](https://www.youtube.com/watch?v=_HWNoT7gwKc)
 
+a
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_HWNoT7gwKc?si=v9Xp4vChwOlMDTG5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ↑　2020年公開の映画「ミッドウェイ」。真珠湾攻撃の奇襲からミッドウェー海戦での敗北までを丁寧に描く。<br>※画像をクリックで予告映像が見れます。</div>
 
