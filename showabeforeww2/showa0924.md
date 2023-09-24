@@ -33,6 +33,9 @@
 <br>
 <br>
 
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/br-F_PpPATI?si=CK3q98f4IG_GcsNt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+
 ## 第一次若槻礼次郎内閣 1926-1927 立憲民政党
 <span style="font-size: 150%">1926年</span><br>
 
@@ -168,6 +171,8 @@
 <div align="left"></div><br>
 
 ## 斉藤実内閣 1932-1934 海軍
+
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/W8PMGfioOuM?si=KtY4B2yxGpfPWg8y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br>
 
 ## 岡田啓介内閣 1934-1936 海軍
 
