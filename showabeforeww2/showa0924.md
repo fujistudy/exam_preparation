@@ -46,8 +46,8 @@
 <span style="font-size: 150%">1927年</span>
 
 **＜モラトリアム＞**
-<br>台湾銀行救済法案が通常法案で通過する。また、高橋是清大蔵相が3週間の支払猶予令（モラトリアム）を緊急勅令で発令。恐慌は収束していく。<br>右：田中義一首相 左：高橋是清大蔵相<br><div>
-<div align="center"><img src="images/takahasiandtanaka.jpg" width="400px"><div>
+<br>台湾銀行救済法案が通常法案で通過する。また、高橋是清大蔵相が3週間の支払猶予令（モラトリアム）を緊急勅令で発令。恐慌は収束していく。<br>右：田中義一首相 左：高橋是清大蔵相<br></div>
+<div align="center"><img src="images/takahasiandtanaka.jpg" width="400px"></div>
 <div align="left"><div><br>
 
 **＜山東出兵＞**
