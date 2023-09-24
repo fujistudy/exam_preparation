@@ -52,14 +52,14 @@
 
 **＜山東出兵＞**
 <br>満蒙の利権を死守するために、3度に及ぶ山東出兵を実行する。同時に、東京で東方会議を開き、中国政策の方針を定める。<div>
-<div align="center"><img src="images/santosyo.png" width="400px"><div>
+<div align="center"><img src="images/santosyo.png" width="400px"></div>
 <div align="left"><div><br>
 
 **＜ジュネーブ海軍軍縮会議＞**
 <br>米大統領クーリッジがジュネーブ海軍軍縮会議を提唱。補助艦制限について討議するも、英米の対立で決裂する。<div><br>
-<div align="center"><img src="images/Coolidge.jpg" width="300px"><div>
+<div align="center"><img src="images/Coolidge.jpg" width="300px"></div>
 
-<br><div align="left"><span style="font-size: 150%">1928年</span><div>
+<br><div align="left"><span style="font-size: 150%">1928年</span></div>
 
 **＜普通選挙実施＞**
 <br>1925年の普通選挙法にもとづき、第一回普通選挙が実施される。無産政党から山本宣治や鈴木文治など8人が当選する。<br>しかし、政府や社会主義者・共産主義者を弾圧する。三・一五事件で日本共産党員を大量検挙する。そして、治安維持法を改正し、国体の変革を目的とする結社・組織した人の最高刑が死刑となった。<div>
