@@ -41,6 +41,8 @@
 
 紹介予定の作品
 
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/SFrQfZSX4Ag?si=E3tgubkwTNPZpl9L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/znIhtRz6l80?si=z0dTsUGLwIsryz4d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/0cUtOR-DL1A?si=YBLQzgj1vK-OrTmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
