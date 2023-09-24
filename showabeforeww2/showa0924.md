@@ -262,6 +262,8 @@
 硫黄島の玉砕、東京大空襲、沖縄戦と太平洋戦争が激化する。
 <div align="center"><img src="images/After_Bombing_of_Tokyo_on_March_1945_19450310.jpg" width="400px"></div>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nQOeAo02v-8?si=pa0KySlGyJVXXglX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/SHBt6DM8hWA?si=JW2gd5G2uB588Hk9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 <div align="left"></div><br>
