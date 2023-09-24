@@ -1,8 +1,9 @@
 # 昭和前半
 
-[大正時代]()<br>
-[一覧にもどる](https://fujistudy.github.io/exam_preparation/)<br>
-[昭和後半]()<br>
+[大正時代に戻る]()<br>
+[一覧に戻る](https://fujistudy.github.io/exam_preparation/)<br>
+[昭和後半に進む]()<br>
+<br>
 
 ## 大正時代の宿題
 大正時代からの宿題として、「戦後恐慌・震災恐慌」「普通選挙の実施」がある。<br>
@@ -155,7 +156,7 @@
 
 <div align="center"><img src="images/location-of-manchuria.jpg" width="400px"></div>
 
-<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/mTTeE1Lhbkg?si=h0E_cBby-eR23mrW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/mTTeE1Lhbkg?si=WEaIN_iKPLeTcBd_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 <div align="left"></div><br>
 
@@ -295,6 +296,7 @@
 <div align="center"><img src="images/Surrender_of_Japan_-_USS_Missouri.jpg" width="400px"></div>
 <br>
 
-[大正時代]()<br>
-[一覧にもどる](https://fujistudy.github.io/exam_preparation/)<br>
-[昭和後半]()<br>
+[大正時代に戻る]()<br>
+[一覧に戻る](https://fujistudy.github.io/exam_preparation/)<br>
+[昭和後半に進む]()<br>
+<br>
