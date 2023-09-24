@@ -279,4 +279,5 @@
 <div align="left"></div><br>
 
 **＜降伏文書調印＞**<br>
-米軍艦ミズーリ号上で降伏文書に調印。全権は、重光葵外相と梅津美治郎参謀総長であった。プレス＝コードにより、出版物の事前検閲・GHQに対する批判は禁止された。<br>日本側は「国体護持（天皇制維持）と「一億総懺悔」を強調。最終的に、GHQの圧力で総辞職することに。</div align="center"><img src="images/Surrender_of_Japan_-_USS_Missouri.jpg" width="400px"></div>
+米軍艦ミズーリ号上で降伏文書に調印。全権は、重光葵外相と梅津美治郎参謀総長であった。プレス＝コードにより、出版物の事前検閲・GHQに対する批判は禁止された。<br>日本側は「国体護持（天皇制維持）と「一億総懺悔」を強調。最終的に、GHQの圧力で総辞職することに。
+</div align="center"><img src="images/Surrender_of_Japan_-_USS_Missouri.jpg" width="400px"></div>
