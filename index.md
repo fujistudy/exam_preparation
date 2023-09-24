@@ -22,3 +22,13 @@ Welcome to exampreparation
 - [昭和戦後]()
 ### 現代
 - [平成]()
+
+
+紹介予定の作品
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/0cUtOR-DL1A?si=YBLQzgj1vK-OrTmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/1EgEPDTT43U?si=2O4haKLMEBn6UB-h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/sqhCtr15FQE?si=BA8zS-y9atwGjm2G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/7cCuVXsZvBA?si=NKbsLtRU5S3KqTIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
