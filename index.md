@@ -25,6 +25,18 @@
 <br>
 <br>
 <br>
+
+紹介予定の実際の映像
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FQ2zL6fAGJk?si=t4d-NOoMayX_A0l4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/RXTldsUfVOk?si=YuWry-DXmPy4j1ST" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/LFPiGzaycdc?si=-QQo1PLQklu8Ndt1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+
+
+
 紹介予定の作品
 
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/znIhtRz6l80?si=z0dTsUGLwIsryz4d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
