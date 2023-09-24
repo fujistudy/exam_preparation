@@ -28,7 +28,7 @@
 <br>
 
 ## 第一次若槻礼次郎内閣 1926-1927 立憲民政党
-<span style="font-size: 150%">1926年</span>
+<span style="font-size: 150%">1926年</span><br>
 **<第一次若槻礼次郎内閣組閣>**<br>
 
 <div align="center"><img src="images/wakatuki.jpg" width="300px"></div>
