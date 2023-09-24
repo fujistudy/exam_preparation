@@ -56,7 +56,7 @@
 <div align="left"></div><br>
 
 **＜ジュネーブ海軍軍縮会議＞**
-<br>米大統領クーリッジがジュネーブ海軍軍縮会議を提唱。補助艦制限について討議するも、英米の対立で決裂する。</div><br>
+<br>米大統領クーリッジがジュネーブ海軍軍縮会議を提唱。補助艦制限について討議するも、英米の対立で決裂する。<br>
 <div align="center"><img src="images/Coolidge.jpg" width="300px"></div><br>
 
 <div align="left"></div>
@@ -150,14 +150,14 @@
 
 <div align="center"><img src="images/location-of-manchuria.jpg" width="400px"></div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mTTeE1Lhbkg?si=WL_qV_YTkne_wlkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div align="center"><<iframe width="560" height="315" src="https://www.youtube.com/embed/mTTeE1Lhbkg?si=WL_qV_YTkne_wlkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 <div align="left"></div><br>
 
 **＜五・一五事件＞**<br>海軍の青年将校たちが、総理官邸を襲撃し、犬養毅を殺害した。これをきっかけに、衆議院第一党の党首が総理大臣になるという「憲政の常道」「政党内閣」が終焉を迎えることになる。これより先は軍人が総理大臣になることが増えていく。こうして、民主主義が滅び、軍部の暴走がさらに加速していく。
 <div align="center"><img src="images/Tsuyoshi_Inukai_May_15_Incident_Asahi_Shimbun.png" width="400px"></div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r05oc7Q88SQ?si=eudAAKpahWC70Oxh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/r05oc7Q88SQ?si=eudAAKpahWC70Oxh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 <div align="left"></div><br>
 
@@ -208,7 +208,7 @@
 
 <div align="center"><br></div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_HWNoT7gwKc?si=v9Xp4vChwOlMDTG5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/_HWNoT7gwKc?si=v9Xp4vChwOlMDTG5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 <div align="left"></div><br>
 
@@ -231,9 +231,9 @@
 マリアナ沖海戦で日本敗北。絶対国防圏のサイパン島陥落。以後、米軍はサイパン島を日本を爆撃する拠点とする。
 <div align="center"><img src="images/Zuikaku_and_two_destroyers_under_attack_on_20_June_1944_(80-G-238025).jpg" width="400px"></div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r6Q5y-Mh0Zo?si=sKU_9Pnc50pGm4Cy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/r6Q5y-Mh0Zo?si=sKU_9Pnc50pGm4Cy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nFZlY8wCQEU?si=SEASzcOKSoX90N39" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/nFZlY8wCQEU?si=SEASzcOKSoX90N39" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 <div align="left"></div><br>
 
@@ -256,7 +256,7 @@
 硫黄島の玉砕、東京大空襲、沖縄戦と太平洋戦争が激化する。
 <div align="center"><img src="images/After_Bombing_of_Tokyo_on_March_1945_19450310.jpg" width="400px"></div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SHBt6DM8hWA?si=JW2gd5G2uB588Hk9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/SHBt6DM8hWA?si=JW2gd5G2uB588Hk9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 <div align="left"></div><br>
 
