@@ -1,5 +1,9 @@
 Welcome to exampreparation
 
+画像・映画・漫画などの作品も交えながら、日本史Bの内容をまとめています。
+現状は、[昭和戦前](showabeforeww2/showa0924.md)の一部のみ作成中です。
+時間を見つけて、随時更新していきます。
+
 ## CONTENTS
 ### 古代
 - [飛鳥]()
