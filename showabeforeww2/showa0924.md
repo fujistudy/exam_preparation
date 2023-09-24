@@ -204,10 +204,10 @@
 
 <div align="center"><br>
 
-[![](https://img.youtube.com/vi/YP0WVURrvfE/0.jpg)](https://www.youtube.com/watch?v=YP0WVURrvfE)
+[![](https://img.youtube.com/vi/_HWNoT7gwKc/0.jpg)](https://www.youtube.com/watch?v=_HWNoT7gwKc)
 
-</div>
-↑　2020年公開の映画「ミッドウェイ」。真珠湾攻撃の奇襲からミッドウェー海戦での敗北までを丁寧に描く。<br>※画像をクリックで予告映像が見れます。
+
+↑　2020年公開の映画「ミッドウェイ」。真珠湾攻撃の奇襲からミッドウェー海戦での敗北までを丁寧に描く。<br>※画像をクリックで予告映像が見れます。</div>
 
 <div align="left"></div><br>
 
