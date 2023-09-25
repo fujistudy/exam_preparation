@@ -176,7 +176,7 @@
 
 ## 岡田啓介内閣 1934-1936 海軍
 
-<div align="center"></div><br>
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/b7AxSpSJkCc?si=kszW6z4UMpMZtOs4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br>
 
 
 ## 宇垣一成内閣 -
