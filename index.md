@@ -28,11 +28,7 @@
 
 紹介予定の実際の映像
 
-<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/iBxnzjc2PBE?si=z_gLU0y3UIviwqKh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
-<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/FQ2zL6fAGJk?si=t4d-NOoMayX_A0l4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
-
-<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/RXTldsUfVOk?si=YuWry-DXmPy4j1ST" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/LFPiGzaycdc?si=-QQo1PLQklu8Ndt1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
@@ -48,14 +44,6 @@
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/0cUtOR-DL1A?si=YBLQzgj1vK-OrTmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/1EgEPDTT43U?si=2O4haKLMEBn6UB-h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
-
-<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/sqhCtr15FQE?si=BA8zS-y9atwGjm2G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
-
-<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/7cCuVXsZvBA?si=NKbsLtRU5S3KqTIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
-
-<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/3f9V3XB-VnA?si=50BSs-YfLbaIOYij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
-
-<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/AecerFzOBTg?si=iK0bkQXc__OBw7uD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/g5W-PJABiQQ?si=ruQ8B1vEXCiuCWCO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
