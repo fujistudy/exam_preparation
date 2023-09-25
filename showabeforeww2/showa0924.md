@@ -1,6 +1,6 @@
 # 昭和前半
 
-[大正時代に戻る]()<br>
+[大正時代に戻る](https://fujistudy.github.io/exam_preparation/taisho/taisho.html)<br>
 [一覧に戻る](https://fujistudy.github.io/exam_preparation/)<br>
 [昭和後半に進む]()<br>
 <br>
@@ -176,9 +176,15 @@
 
 ## 岡田啓介内閣 1934-1936 海軍
 
+<div align="center"></div><br>
+
+
 ## 宇垣一成内閣 -
 
 ## 林銑十郎内閣 1937 陸軍
+
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/FOtfgaC_PSM?si=6lbnJmBpCKENJv4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br>
+
 
 ## 第一次近衛文麿内閣 1937-1939
 
@@ -208,6 +214,9 @@
 **＜太平洋戦争開戦＞**<br>
 山本五十六司令官による真珠湾攻撃が実施される。同時に、マレー半島にも上陸。太平洋戦争が始まる。
 <div align="center"><img src="images/1024px-USS_California_sinking-Pearl_Harbor.jpg" width="400px"></div>
+
+
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/JkZ6K_nEQXo?si=6WnWK6v6fJNwd866" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br>
 
 <div align="left"></div><br>
 
