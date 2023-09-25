@@ -16,7 +16,7 @@
 - [江戸]()
 ### 近代
 - [明治]()
-- [大正]()
+- [大正](taisho/taisho.md)
 - [昭和戦前](showabeforeww2/showa0924.md)
 - [昭和戦後]()
 ### 現代
@@ -58,3 +58,8 @@
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/AecerFzOBTg?si=iK0bkQXc__OBw7uD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/g5W-PJABiQQ?si=ruQ8B1vEXCiuCWCO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/r89FY14Ax38?si=FqN2CWzlLscoVsPD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+<div align="center"></div>
+<div align="center"></div>
