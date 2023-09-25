@@ -55,3 +55,6 @@
 <div align="center"></div>
 
 
+[平安時代に戻る](https://fujistudy.github.io/exam_preparation/heian/heian.html)<br>
+[一覧に戻る](https://fujistudy.github.io/exam_preparation/)<br>
+[室町時代に進む]()<br>
