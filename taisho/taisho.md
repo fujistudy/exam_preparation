@@ -1,6 +1,6 @@
 # 大正時代
 
-[明治時代に戻る]()<br>
+[明治時代に戻る](https://fujistudy.github.io/exam_preparation/meiji/meiji.html)<br>
 [一覧に戻る](https://fujistudy.github.io/exam_preparation/)<br>
 [昭和前半に進む](https://fujistudy.github.io/exam_preparation/showabeforeww2/showa0924.html)<br>
 <br>
