@@ -1,14 +1,14 @@
 # 平安時代
 [奈良時代に戻る]()<br>
 [一覧に戻る](https://fujistudy.github.io/exam_preparation/)<br>
-[鎌倉に進む]()<br>
+[鎌倉に進む](https://fujistudy.github.io/exam_preparation/kamakura/kamakura.html)<br>
 
-##　奈良時代の宿題
+## 奈良時代の宿題<br>
 奈良時代からの宿題として、「奈良仏教からの離脱」がある。<br>
 宇佐八幡宮神託事件のように、奈良仏教が政治に与える影響が大きくなってしまった。<br>
 そのため、都を遷都し、奈良仏教の影響を排除しようと考えた。平安初期は、遷都の連続から始まる。<br>
 
-##　平安時代を4分割<br>
+## 平安時代を4分割<br>
 平安時代は以下の4分割で整理しよう。<br>
 * 天皇親政<br>
 * 藤原氏の他氏排斥＝全盛期<br>
@@ -55,4 +55,4 @@
 
 [奈良時代に戻る]()<br>
 [一覧に戻る](https://fujistudy.github.io/exam_preparation/)<br>
-[鎌倉に進む]()<br>
+[鎌倉に進む](https://fujistudy.github.io/exam_preparation/kamakura/kamakura.html)<br>
