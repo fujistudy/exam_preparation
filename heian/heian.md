@@ -1,7 +1,7 @@
 # 平安時代
 [奈良時代に戻る]()<br>
-[一覧に戻る](https://fujistudy.github.io/exam_preparation/)<br>
-[鎌倉に進む](https://fujistudy.github.io/exam_preparation/kamakura/kamakura.html)<br>
+[一覧に戻る](../index.md)<br>
+[鎌倉に進む](../kamakura/kamakura.md)<br>
 
 ## 奈良時代の宿題<br>
 奈良時代からの宿題として、「奈良仏教からの離脱」がある。<br>
