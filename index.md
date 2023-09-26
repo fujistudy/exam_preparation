@@ -1,9 +1,10 @@
 
 画像・映画・漫画などの作品も交えながら、日本史Bの内容をまとめています。
-現状は、[昭和戦前](showabeforeww2/showa0924.md)の一部のみ作成中です。
+現状は、[平安](heian/heian.md),[鎌倉](kamakura/kamakura.md),,[明治](meiji/meiji.md),[大正](taisho/taisho.md),[昭和戦前](showabeforeww2/showa0924.md)の一部のみ作成中です。
 時間を見つけて、随時更新していきます。
 
 ## CONTENTS
+
 ### 古代
 - [飛鳥]()
 - [奈良]()
