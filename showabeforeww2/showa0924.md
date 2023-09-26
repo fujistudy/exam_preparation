@@ -9,6 +9,8 @@
 大正時代からの宿題として、「戦後恐慌・震災恐慌」「普通選挙の実施」がある。<br>
 昭和の初期は、恐慌対策と普通選挙の実施から始まる。
 
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/fnrFz-fL_1U?si=DSHlUMvR6tj4yBDT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
 ## 昭和前半を4分割
 昭和の前半は以下の4分割で整理しよう。<br>
 * 恐慌
@@ -33,7 +35,7 @@
 <br>
 <br>
 
-<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/br-F_PpPATI?si=CK3q98f4IG_GcsNt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/br-F_PpPATI?si=CK3q98f4IG_GcsNt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br>
 
 
 ## 第一次若槻礼次郎内閣 1926-1927 立憲民政党
@@ -58,6 +60,10 @@
 台湾銀行救済法案が通常法案で通過する。また、高橋是清大蔵相が3週間の支払猶予令（モラトリアム）を緊急勅令で発令。恐慌は収束していく。<br>右：田中義一首相 左：高橋是清大蔵相<br>
 <div align="center"><img src="images/takahasiandtanaka.jpg" width="400px"></div>
 <div align="left"></div><br>
+
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/qKuDEI9y9vc?si=wO_Dyho9fy3A0J-2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br>
+
+
 
 **＜山東出兵＞**
 <br>満蒙の利権を死守するために、3度に及ぶ山東出兵を実行する。同時に、東京で東方会議を開き、中国政策の方針を定める。
@@ -107,6 +113,10 @@
 **＜浜口内閣組閣＞**<br>財務大臣に井上準之助を起用し、外務大臣に幣原喜重郎を起用した。この2人を起用したことにより、浜口内閣は大きな混乱を生むことになる。<br>※写真は浜口雄幸
 <div align="center"><img src="images/hamaguti.jpeg" width="300px"></div><br>
 
+
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/x6UXC8qYBo4?si=z936QZwZYx80wG1N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br>
+
+
 <div align="left"></div>
 
 **＜金輸出解禁＞**
@@ -114,9 +124,15 @@
 <div align="center"><img src="images/Inoue_Junnosuke.jpg" width="300px"></div><br>
 
 
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/mpGOhxyeBV4?si=vle-TGFNarfe4y-d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br>
+
+
 <div align="left"></div>
 
 **＜ロンドン海軍軍縮条約＞**<br>外交では、政友会の反対を無視し、ロンドン海軍軍縮条約(1930)を結ぶ。これにより、主力艦建造凍結が1936年まで延長され、補助艦の保有量の制限された。また、大型巡洋艦は対米6割、補助艦対米7割となった。全権は若槻礼次郎と財部彪海相であった。<br><br>ロンドン海軍軍縮条約は統帥権干犯問題に発展する。統帥権とは、大日本帝国憲法において、軍隊を指揮する最高の権限のことである。海軍の反対を押し切って、海軍軍縮条約を結ぶことは越権行為と浜口内閣は批判された。その結果、浜口雄幸は東京駅で狙撃され重傷を負う。これがきっかけで、浜口内閣は総辞職。その4か月後に浜口は死去した。平和を願い、海軍軍縮を押し切った浜口は不運の最期を遂げる。
+
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/EI3sOCTvFDA?si=L0af3zFHKYLkXQLl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br>
+
 <div align="center"><img src="images/hgmaguti2.jpg" width="400px"></div>
 <br>
 <br>
@@ -133,6 +149,9 @@
 **＜満州事変＞**<br>中国の遼東半島や満州に駐留していた関東軍が、柳条湖で鉄道を爆破する「柳条湖事件」を起こす。当初、中国軍の犯行であると発表されたが、実際には関東軍による自作自演であった。首謀者は関東軍作戦参謀の石原莞爾と板垣征四郎であった。<br>石原莞爾は後に、「世界最終戦論」という書物を残す。そこには、航空機や大量破壊兵器による殲滅戦争が起こることが予言されていた。石原莞爾は、「その最悪の未来を阻止するためには中国を支配しアジアが一致団結して米国に対抗する必要がある」と考えて満州事変を起こした。<br>関東軍は、治安維持を名目に、軍事行動を開始。中国の大部分を占領した。若槻内閣は不拡大方針を取ったが、朝鮮軍司令官の林銑十郎が独断で中国に増援を送る。軍部をおさえることもできず、若槻内閣は総辞職するしかなかった。<br>※写真は爆破された柳条湖の鉄道
 <div align="center"><img src="images/ryujoko.JPG" width="400px"></div>
 
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/uBa5FCENnsI?si=MPFQRfxIWC5Tvb_F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br>
+
+
 <div align="left"></div><br>
 
 ## 犬養毅内閣 1931-1932 立憲政友会
@@ -140,6 +159,9 @@
 
 **＜金輸出再禁止＞**<br>犬養毅と高橋是清蔵相はすぐに金輸出再禁止を行う。立憲民政党が進めていたデフレ政策をインフレ政策に転換する。<br>※写真は犬養毅
 <div align="center"><img src="images/Tsuyoshi_Inukai.jpg" width="300px"></div>
+
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/29Aiud8xUmI?si=wXUEN5UJ75OcQH24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br>
+
 
 <div align="left"></div><br>
 
@@ -152,6 +174,8 @@
 
 **＜リットン調査団＞**<br>国際連盟からリットン調査団が派遣される。英米仏独伊の五か国によって柳条湖事件や満州を調査することに。
 <div align="center"><img src="images/Lytton_Commission_at_railway.jpg" width="400px"></div>
+
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/DVEfnEVMDa0?si=_16bg-rgHyyhSOkC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><br>
 
 <div align="left"></div><br>
 
@@ -313,7 +337,7 @@
 <div align="center"><img src="images/Surrender_of_Japan_-_USS_Missouri.jpg" width="400px"></div>
 <br>
 
-[大正時代に戻る]()<br>
-[一覧に戻る](https://fujistudy.github.io/exam_preparation/)<br>
+[大正時代に戻る](../taisho/taisho.md)<br>
+[一覧に戻る](../index.md)<br>
 [昭和後半に進む]()<br>
 <br>
