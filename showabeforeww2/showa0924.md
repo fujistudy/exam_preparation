@@ -1,7 +1,7 @@
 # 昭和前半
 
-[大正時代に戻る](https://fujistudy.github.io/exam_preparation/taisho/taisho.html)<br>
-[一覧に戻る](https://fujistudy.github.io/exam_preparation/)<br>
+[大正時代に戻る](../../taisho/taisho.md)<br>
+[一覧に戻る](../..)<br>
 [昭和後半に進む]()<br>
 <br>
 
