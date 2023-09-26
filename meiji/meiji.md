@@ -1,8 +1,10 @@
 # 明治時代
 
 [江戸時代に戻る]()<br>
-[一覧に戻る](https://fujistudy.github.io/exam_preparation/)<br>
-[大正に進む](https://fujistudy.github.io/exam_preparation/taisho/taisho.html)
+[一覧に戻る](../index.md)<br>
+[大正時代に進む](../taisho/taisho.md)<br>
+<br>
+<br>
 
 ## 江戸時代の宿題<br>
 <br>
@@ -66,5 +68,6 @@
 
 
 [江戸時代に戻る]()<br>
-[一覧に戻る](https://fujistudy.github.io/exam_preparation/)<br>
-[大正に進む](https://fujistudy.github.io/exam_preparation/taisho/taisho.html)
+[一覧に戻る](../index.md)<br>
+[大正時代に進む](../taisho/taisho.md)<br>
+<br>
