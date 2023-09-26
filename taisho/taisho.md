@@ -1,8 +1,8 @@
 # 大正時代
 
-[明治時代に戻る](https://fujistudy.github.io/exam_preparation/meiji/meiji.html)<br>
-[一覧に戻る](https://fujistudy.github.io/exam_preparation/)<br>
-[昭和前半に進む](https://fujistudy.github.io/exam_preparation/showabeforeww2/showa0924.html)<br>
+[明治時代に戻る](../meiji/meiji.md)<br>
+[一覧に戻る](../index.md)<br>
+[昭和前半に進む](../taisho/taisho.md)<br>
 <br>
 
 ## 明治時代からの宿題
@@ -51,6 +51,7 @@
 
 
 
-[明治時代に戻る]()<br>
-[一覧に戻る](https://fujistudy.github.io/exam_preparation/)<br>
-[昭和前半に進む](https://fujistudy.github.io/exam_preparation/showabeforeww2/showa0924.html)
+[明治時代に戻る](../meiji/meiji.md)<br>
+[一覧に戻る](../index.md)<br>
+[昭和前半に進む](../taisho/taisho.md)<br>
+<br>
