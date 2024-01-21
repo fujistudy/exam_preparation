@@ -2,7 +2,7 @@
 
 [明治時代に戻る](../meiji/meiji.md)<br>
 [一覧に戻る](../index.md)<br>
-[昭和前半に進む](../taisho/taisho.md)<br>
+[昭和前半に進む](../showabeforeww2/showabeforeww2.md)<br>
 <br>
 
 ## 明治時代からの宿題
@@ -53,5 +53,5 @@
 
 [明治時代に戻る](../meiji/meiji.md)<br>
 [一覧に戻る](../index.md)<br>
-[昭和前半に進む](../taisho/taisho.md)<br>
+[昭和前半に進む](../showabeforeww2/showabeforeww2.md)<br>
 <br>
